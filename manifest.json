@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "Automated Form Toucher",
+    "description": "Typing info into forms is for window lickers.",
+    "version": "1.0",
+    "permissions": [
+        "tabs",
+        "http://*/*",
+        "https://*/*"
+    ]
+}
